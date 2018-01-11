@@ -1,0 +1,4 @@
+{
+  //tell babel which presets to use
+  "presets": ["env", "react"]
+}

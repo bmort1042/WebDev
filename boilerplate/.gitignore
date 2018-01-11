@@ -1,0 +1,11 @@
+# This file specifies which files will not be tracked by git
+
+# Ignore the node_modules directory and all its child directories
+/node_modules
+
+# Ignore WebStorm's .idea directory 
+/.idea
+
+#dist folder
+dist
+
